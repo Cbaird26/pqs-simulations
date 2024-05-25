@@ -1,4 +1,4 @@
-authtoken: 2gxUIP301twj9bXpvSOYQnYLsA5_4aS8SXiVHThrpkKBcjGc1
+authtoken: YOUR_NGROK_AUTHTOKEN
 tunnels:
   streamlit-app:
     proto: http
